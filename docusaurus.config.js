@@ -74,12 +74,12 @@ const config = {
         // sdkURL: "https://cdn.sandbox.slashid.com/sdk.html",
         // example: granular access based on paths
         privatePaths: [
-          {
-            path: "/docs/tutorial-basics/*",
-          },
-          {
-            path: "/docs/category/tutorial---basics",
-          },
+          // {
+          //   path: "/docs/tutorial-basics/*",
+          // },
+          // {
+          //   path: "/docs/category/tutorial---basics",
+          // },
         ],
       },
       navbar: {
